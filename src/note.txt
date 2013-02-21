@@ -1,0 +1,40 @@
+THE QUICK BROWN FOX JUMPS <-- goal words
+THE QUICK BR              <-- words being typed
+
+==============================
+
+onLoop_game - check for pressed keys
+		- if key is pressed, set number of
+		iterations before it is pressed again
+	    - if keys are pressed and ready, add them to
+	    the string of what the player is typing
+
+	    - if the string has been changed, render the
+	    new image and draw it in a image
+
+            - if the string matches the goal string
+                - go wait for a w, a, s, or d keypress,
+		prompt the user in the goal words
+		- set the player to moving
+		- move the player
+		- scramble goal string and reprint when
+		the player has moved
+		- check if the player has collided with
+		abe lincoln
+===============
+
+variables:
+	App. int[61] keyTimes  <- Keep track of delays
+	App. std::string playerIn <- Keep track of what
+				the player is typing
+	
+	Loop. bool hasChanged <- should the cache be
+				ubdated	
+
+	App. bool isMoving	<- is the player moving?
+	App. bool isColliding <- is the player touching 
+				lincoln
+	
+	SDL_Surface* playerInIMG <- cache the player string
+				 when it isn't being
+				 written to.
