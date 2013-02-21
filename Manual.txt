@@ -1,0 +1,49 @@
+Setup:
+
+If you're reading this file, you've done all the setup
+required. Just run the .exe from the folder you extracted
+the zip into, if you move the .exe from the same
+directory as the .dll files and such, then the game
+will not run. 
+
+-----------------
+Controls:
+
+wasd: move left hand
+
+ijkl: move right hand
+
+1-0 keys: press corresponding finger,
+starting at the left, (4 is left index,
+8 is right middle finger, etc.)
+
+All instructions, including any in the game
+or in this manual, refer to keys
+on the on-screen keyboard: if you are told
+to hit "A", move your hand to the "A" key,
+and press the appropriate finger.
+
+Tip: When Typing, have the finger a bit above the
+key you want to hit.
+
+-----------------
+How to Play:
+
+You start the game in a house where you must
+find Abraham Lincoln. There will be a phrase at the
+top of the screen, which you have to type on the
+onscreen keyboard, using the onscreen hands.
+once you have typed the phrase, hit enter, and if you
+typed it correctly, you can move, otherwise your text
+will be cleared. To move, just type the number
+of the direction that you want to go on the onscreen
+keyboard. Keep moving around the house until you
+reach Abe.
+Once you collide with him, you will be transported to
+a boss level, in which you must type an entire document
+faster than the progress bar at the top of the screen
+fills up. Just keep typing the top line of the document,
+then hit enter to go to the next line. When either the
+progress bar fills up, or you complete your typing,
+
+-----------------
